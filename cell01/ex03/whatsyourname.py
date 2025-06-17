@@ -1,5 +1,5 @@
 name=input("Hey,what's your first name?")
-print(name
+print(name)
 Lastname=input("What's your Lastname")
 print(Lastname)
 print(name+" "+Lastname)
